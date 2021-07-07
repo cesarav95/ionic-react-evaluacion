@@ -87,7 +87,6 @@ const Register: React.FC = () => {
     }
 
   }
-  console.log("actualizando");
   return (
     <IonPage>
       <IonHeader>
