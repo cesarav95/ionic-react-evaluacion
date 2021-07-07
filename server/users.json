@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 300620212039,
+      "firstName": "Renato",
+      "lastName": "De la Rosa",
+      "email": "rdelarosa@gmail.com",
+      "password": "TmV3SG9yaXpvbnMyMDIx"
+    },
+    {
+      "firstName": "Mario",
+      "lastName": "Bros",
+      "email": "mbros@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 300620212040
+    },
+    {
+      "firstName": "Pablo",
+      "lastName": "Escobar",
+      "email": "pescobar@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 300620212041
+    },
+    {
+      "firstName": "Cesar Ernesto",
+      "lastName": "Achahui Vilca",
+      "email": "cesarav751323@gmail.com",
+      "password": "MTIzNDU2Nzg=",
+      "id": 300620212042
+    }
+  ]
+}

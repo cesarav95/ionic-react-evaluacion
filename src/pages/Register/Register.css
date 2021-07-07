@@ -1,0 +1,7 @@
+.ion-item-register {
+  border-radius: 5px;
+  border-color: var(--ion-color-primary);
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+}

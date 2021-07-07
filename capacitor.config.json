@@ -1,0 +1,6 @@
+{
+  "appId": "com.cesarav.ionicapp",
+  "appName": "Evaluacion Ionic React",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
